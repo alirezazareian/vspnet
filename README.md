@@ -2,6 +2,16 @@
 
 Code for the CVPR 2020 oral paper: [Weakly Supervised Visual Semantic Parsing](https://arxiv.org/abs/2001.02359)
 
+```
+@InProceedings{Zareian_2020_CVPR,
+author = {Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
+title = {Weakly Supervised Visual Semantic Parsing},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
+```
+
 This package can reproduce numbers reported in Table 1 and Table 2 of the paper.
 
 In order to use the code, configure python and cuda, and install the packages in requirements.txt. 
