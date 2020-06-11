@@ -1,6 +1,6 @@
 # VSPNet
 
-Code for the CVPR 2020 oral paper: [Weakly Supervised Visual Semantic Parsing](https://arxiv.org/abs/2001.02359)
+Code for the CVPR 2020 oral paper: [Weakly Supervised Visual Semantic Parsing](http://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html)
 
 ```
 @InProceedings{Zareian_2020_CVPR,
