@@ -2,6 +2,10 @@
 
 Code for the CVPR 2020 oral paper: [Weakly Supervised Visual Semantic Parsing](http://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html)
 
+Watch the talk:
+
+[<img src="https://img.youtube.com/vi/IDOlnZvY5vY/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=IDOlnZvY5vY)
+
 ```
 @InProceedings{Zareian_2020_CVPR,
 author = {Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
