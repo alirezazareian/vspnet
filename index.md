@@ -1,7 +1,9 @@
 ## [Weakly Supervised Visual Semantic Parsing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf)
 
 [Alireza Zareian](https://www.linkedin.com/in/az2407/), [Svebor Karaman](http://www.sveborkaraman.com/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
+
 [Digital Video and Multimedia](https://www.ee.columbia.edu/ln/dvmm/)
+
 Columbia University
 
 ### Abstract
