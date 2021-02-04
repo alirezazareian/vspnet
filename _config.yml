@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Weakly Supervised Visual Semantic Parsing
+description: Oral Paper - CVPR 2020
+logo: logo.png
+show_downloads: true
