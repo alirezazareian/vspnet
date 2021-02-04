@@ -1,10 +1,13 @@
-## [Weakly Supervised Visual Semantic Parsing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf)
+## Weakly Supervised Visual Semantic Parsing
 
-[Alireza Zareian](https://www.linkedin.com/in/az2407/), [Svebor Karaman](http://www.sveborkaraman.com/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
+Oral Paper - CVPR 2020 (Conference on Computer Vision and Pattern Recognition)
 
-[Digital Video and Multimedia](https://www.ee.columbia.edu/ln/dvmm/)
-
+[Alireza Zareian](https://www.linkedin.com/in/az2407/), [Svebor Karaman](http://www.sveborkaraman.com/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)<br/>
+[Digital Video and Multimedia](https://www.ee.columbia.edu/ln/dvmm/)<br/>
 Columbia University
+
+<button name="paper" onclick="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf">Paper</button>
+<button name="talk" onclick="https://www.youtube.com/watch?v=IDOlnZvY5vY">Oral Talk</button>
 
 ### Abstract
 
