@@ -10,7 +10,9 @@ A machine learning framework for faster and more powerful image understanding wi
 
 Published and presented as an oral paper at CVPR 2020 (Conference on Computer Vision and Pattern Recognition).
 
-<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf"><button>Read Our Paper</button></a>
+<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html"><button>View On CVF</button></a>
+&nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://arxiv.org/abs/2001.02359"><button>View On arXiv</button></a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Talk</button></a>
 
