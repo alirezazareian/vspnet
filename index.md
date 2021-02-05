@@ -1,4 +1,4 @@
-## Weakly Supervised Visual Semantic Parsing
+# Weakly Supervised <br/> Visual Semantic Parsing
 
 [Alireza Zareian](https://www.linkedin.com/in/az2407/), &nbsp; &nbsp; &nbsp; &nbsp; 
 [Svebor Karaman](http://www.sveborkaraman.com/), &nbsp; &nbsp; &nbsp; &nbsp; 
