@@ -2,11 +2,14 @@
 
 Oral Paper - CVPR 2020 (Conference on Computer Vision and Pattern Recognition)
 
-[Alireza Zareian](https://www.linkedin.com/in/az2407/), [Svebor Karaman](http://www.sveborkaraman.com/), [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)<br/>
+[Alireza Zareian](https://www.linkedin.com/in/az2407/), &nbsp; &nbsp; &nbsp; &nbsp; 
+[Svebor Karaman](http://www.sveborkaraman.com/), &nbsp; &nbsp; &nbsp; &nbsp; 
+[Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)<br/>
 [Digital Video and Multimedia](https://www.ee.columbia.edu/ln/dvmm/)<br/>
 Columbia University
 
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf"><button>Read Our Paper</button></a>
+&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Oral Talk</button></a>
 
 ### Abstract
