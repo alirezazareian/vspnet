@@ -1,6 +1,8 @@
 ## Weakly Supervised Visual Semantic Parsing
 
-Oral Paper - CVPR 2020 (Conference on Computer Vision and Pattern Recognition)
+A machine learning framework for faster and more powerful image understanding with less supervision cost.
+
+Published and presented as an oral paper at CVPR 2020 (Conference on Computer Vision and Pattern Recognition).
 
 [Alireza Zareian](https://www.linkedin.com/in/az2407/), &nbsp; &nbsp; &nbsp; &nbsp; 
 [Svebor Karaman](http://www.sveborkaraman.com/), &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -10,7 +12,9 @@ Columbia University
 
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.pdf"><button>Read Our Paper</button></a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Oral Talk</button></a>
+<a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Talk</button></a>
+
+![Example Result](logo.png)
 
 ### Abstract
 
@@ -26,3 +30,9 @@ month = {June},
 year = {2020}
 }
 ```
+
+### Quick Overview:
+
+[<img src="https://img.youtube.com/vi/IDOlnZvY5vY/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=IDOlnZvY5vY)
+
+
