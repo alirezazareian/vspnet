@@ -4,8 +4,7 @@
 [Svebor Karaman](http://www.sveborkaraman.com/), &nbsp; &nbsp; &nbsp; &nbsp; 
 [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/)
 
-[Digital Video and Multimedia](https://www.ee.columbia.edu/ln/dvmm/)<br/>
-Columbia University
+[Digital Video and Multimedia - Columbia University](https://www.ee.columbia.edu/ln/dvmm/)
 
 A machine learning framework for faster and more powerful image understanding with less supervision cost.
 
