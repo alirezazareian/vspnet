@@ -10,11 +10,11 @@ A machine learning framework for faster and more powerful image understanding wi
 
 Published and presented as an oral paper at CVPR 2020 (Conference on Computer Vision and Pattern Recognition).
 
-<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html"><button>View On CVF</button></a>
+<a href="https://openaccess.thecvf.com/content_CVPR_2020/html/Zareian_Weakly_Supervised_Visual_Semantic_Parsing_CVPR_2020_paper.html"><button>View Proceedings</button></a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://arxiv.org/abs/2001.02359"><button>View On arXiv</button></a>
+<a href="https://arxiv.org/abs/2001.02359"><button>Read on arXiv</button></a>
 &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Talk</button></a>
+<a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch the Talk</button></a>
 
 ### Abstract
 
@@ -22,23 +22,24 @@ Scene Graph Generation (SGG) aims to extract entities, predicates and their sema
 
 ### Citation:
 ```
-@InProceedings{Zareian_2020_CVPR,
-author = {Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
-title = {Weakly Supervised Visual Semantic Parsing},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
+@inproceedings{zareian2020bridging,
+  title={Bridging knowledge graphs to generate scene graphs},
+  author={Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
+  booktitle={European Conference on Computer Vision},
+  pages={606--623},
+  year={2020},
+  organization={Springer}
 }
 ```
 
 ### Quick Overview:
 
-![Method](vspnet-method.png)
+![Method](gbnet-method.png)
 
 Given an input image and object proposals, a scene graph is produced by an iterative process involving a multi-headed attention module that infers edges between entities and predicates, and a novel message passing module to propagate information between nodes and update their states. To define a classification loss for each node and edge, the ground truth graph is aligned to our output graph through a novel weakly supervised algorithm. Red represents mistake.
 
 ### Oral Talk:
 
-[<img src="https://img.youtube.com/vi/IDOlnZvY5vY/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=IDOlnZvY5vY)
+[<img src="https://img.youtube.com/vi/IDOlnZvY5vY/maxresdefault.jpg">](https://www.youtube.com/watch?v=IDOlnZvY5vY)
 
 
