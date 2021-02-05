@@ -22,19 +22,18 @@ Scene Graph Generation (SGG) aims to extract entities, predicates and their sema
 
 ### Citation:
 ```
-@inproceedings{zareian2020bridging,
-  title={Bridging knowledge graphs to generate scene graphs},
-  author={Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
-  booktitle={European Conference on Computer Vision},
-  pages={606--623},
-  year={2020},
-  organization={Springer}
+@InProceedings{Zareian_2020_CVPR,
+author = {Zareian, Alireza and Karaman, Svebor and Chang, Shih-Fu},
+title = {Weakly Supervised Visual Semantic Parsing},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
 }
 ```
 
 ### Quick Overview:
 
-![Method](gbnet-method.png)
+![Method](vspnet-method.png)
 
 Given an input image and object proposals, a scene graph is produced by an iterative process involving a multi-headed attention module that infers edges between entities and predicates, and a novel message passing module to propagate information between nodes and update their states. To define a classification loss for each node and edge, the ground truth graph is aligned to our output graph through a novel weakly supervised algorithm. Red represents mistake.
 
