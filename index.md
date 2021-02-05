@@ -14,8 +14,6 @@ Columbia University
 &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://www.youtube.com/watch?v=IDOlnZvY5vY"><button>Watch The Talk</button></a>
 
-![Example Result](logo.png)
-
 ### Abstract
 
 Scene Graph Generation (SGG) aims to extract entities, predicates and their semantic structure from images, enabling deep understanding of visual content, with many applications such as visual reasoning and image retrieval. Nevertheless, existing SGG methods require millions of manually annotated bounding boxes for training, and are computationally inefficient, as they exhaustively process all pairs of object proposals to detect predicates. In this paper, we address those two limitations by first proposing a generalized formulation of SGG, namely Visual Semantic Parsing, which disentangles entity and predicate recognition, and enables sub-quadratic performance. Then we propose the Visual Semantic Parsing Network, VSPNet, based on a dynamic, attention-based, bipartite message passing framework that jointly infers graph nodes and edges through an iterative process. Additionally, we propose the first graph-based weakly supervised learning framework, based on a novel graph alignment algorithm, which enables training without bounding box annotations. Through extensive experiments, we show that VSPNet outperforms weakly supervised baselines significantly and approaches fully supervised performance, while being several times faster. We publicly release the source code of our method.
@@ -32,6 +30,12 @@ year = {2020}
 ```
 
 ### Quick Overview:
+
+![Method](vspnet-method.png)
+
+Given an input image and object proposals, a scene graph is produced by an iterative process involving a multi-headed attention module that infers edges between entities and predicates, and a novel message passing module to propagate information between nodes and update their states. To define a classification loss for each node and edge, the ground truth graph is aligned to our output graph through a novel weakly supervised algorithm. Red represents mistake.
+
+### Oral Talk:
 
 [<img src="https://img.youtube.com/vi/IDOlnZvY5vY/maxresdefault.jpg" width="75%">](https://www.youtube.com/watch?v=IDOlnZvY5vY)
 
